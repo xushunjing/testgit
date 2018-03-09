@@ -15,4 +15,4 @@ test push
 9999999999999
 
 dev
-add dev info 404
+add dev info
